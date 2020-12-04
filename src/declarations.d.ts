@@ -1,0 +1,1 @@
+declare module 'typescript-nodejs-ioc';
